@@ -1,0 +1,7 @@
+mongodb+srv://xyzxand68_db_user:yzgnS1Y3TP1PmSci@cluster0.y0s0u0g.mongodb.net/myBotDB?appName=Cluster0
+  "database": {
+    "type": "mongodb",
+    "uriMongodb": "mongodb+srv://xyzxand68_db_user:yzgnS1Y3TP1PmSci@cluster0.y0s0u0g.mongodb.net/myBotDB?appName=Cluster0",
+    "autoSyncWhenStart": true,
+    "autoRefreshThreadInfoFirstTime": true,
+    "notes": "Set your MongoDB URI here or use env MONGODB_URI"
